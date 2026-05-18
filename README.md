@@ -34,7 +34,7 @@ Video input
 ## Model Comparison
 
 | Model | Validation Set | fish AP | reflection AP | mAP@0.5 |
-|---|---:|---:|---:|
+|---|---|---:|---:|---:|
 | V4 | V5 val | 0.862 | 0.940 | 0.901 |
 | V5 | V5 val | 0.903 | 0.952 | 0.927 |
 
