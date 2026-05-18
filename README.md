@@ -1,6 +1,6 @@
 # Ocellaris Fish Tracking with YOLO and ByteTrack
 
-[中文说明](README.zh.md)
+[简体中文](README.zh.md)
 
 YOLO-based fish/reflection detection and ByteTrack tracking pipeline for ocellaris clownfish behavior analysis.
 
