@@ -15,12 +15,7 @@ English | [简体中文](README.zh.md)
 
 ## Pipeline
 
-Video input  
-→ preprocessing  
-→ fish/reflection detection  
-→ ByteTrack tracking  
-→ trajectory export  
-→ behavior analysis
+Video input → preprocessing → fish/reflection detection → ByteTrack tracking → trajectory export → behavior analysis
 
 ## Current Best Setup
 
