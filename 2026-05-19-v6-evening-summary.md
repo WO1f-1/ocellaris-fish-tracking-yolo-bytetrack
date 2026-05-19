@@ -561,35 +561,6 @@ V5 仍是稳定主方案；
 
 今晚的工作为后续判断 V6 是否真正改善鱼类跟踪稳定性提供了完整的数据和模型基础。
 
----
-
-## 15. Git 提交建议
-
-建议将本文件提交到仓库：
-
-```text
-docs/progress/2026-05-19-v6-evening-summary.md
-```
-
-建议提交信息：
-
-```text
-docs: summarize V6 training and validation progress
-```
-
-建议提交时间：
-
-```text
-2026-05-19T23:24:00+08:00
-```
-
-对应命令：
-
-```bash
-git add docs/progress/2026-05-19-v6-evening-summary.md
-
-GIT_AUTHOR_DATE="2026-05-19T23:24:00+08:00" \
-GIT_COMMITTER_DATE="2026-05-19T23:24:00+08:00" \
 git commit -m "docs: summarize V6 training and validation progress"
 
 git push origin main
