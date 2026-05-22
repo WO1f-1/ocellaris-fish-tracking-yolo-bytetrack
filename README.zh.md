@@ -209,6 +209,10 @@ V6+E2 共处理 18030 帧，帧级 fish 数量统计如下：
 
 当前项目已经从“检测模型优化阶段”进入“轨迹可靠性与身份连续性优化阶段”。V6+E2 在自动 tracking 指标上优于 V5+E2，但身份保持仍未完全解决。后续工作将重点围绕 hard sample mining、identity_uncertain 标记、轨迹后处理和双视角三维轨迹重建展开。
 
+## 致谢
+
+感谢 [fzz872](https://github.com/fzz872) 在本项目讨论与文档完善方面提供的支持。
+
 ## License
 
 本项目采用 MIT License。
