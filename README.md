@@ -208,6 +208,10 @@ Because the three ocellaris clownfish have highly similar appearances, appearanc
 - [ ] Explore dual-view 3D trajectory reconstruction
 - [ ] Build social behavior metrics and graph-based group analysis
 
+## Acknowledgements
+
+Thanks to [fzz872](https://github.com/fzz872) for project discussion and documentation support.
+
 ## License
 
 This project is released under the MIT License.
